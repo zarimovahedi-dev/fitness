@@ -8,7 +8,7 @@
 
 - Developed by Zahra Movahedifar
 - Created – 2026-02-13
-- Technologies Used – HTML, CSS, JavaScript
+- Technologies Used – HTML, CSS
 - Role – Frontend
 
 - How to reach me – with my [GitHub](https://github.com/zarimovahedi-dev)
